@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649591134192",
+    "project_id": "medibound-428805",
+    "storage_bucket": "medibound-428805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649591134192:android:d9a3d530087815d5856f35",
+        "android_client_info": {
+          "package_name": "com.medibound"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiTj0QrwDIk_DCgKX_eKAHiXBVGh7-RxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
